@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676582494 source:c:\users\administrador\documents\codeblocks c\cajaregistradorav3\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
